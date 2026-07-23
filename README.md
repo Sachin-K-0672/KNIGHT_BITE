@@ -117,7 +117,7 @@ KNIGHT_BITE/
 Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Sachin-K-0672/KNIGHT_BITE.git
 ```
 
 Move into the project folder
@@ -266,6 +266,9 @@ The original design belongs to Knight Bite. This project is a front-end clone bu
 GitHub: https://github.com/Sachin-K-0672
 
 Portfolio: https://ksachin.netlify.app
+
+🌐 **Live Demo:** https://knight-bite-by-sachin.netlify.app
+💻 **Source Code:** https://github.com/Sachin-K-0672/KNIGHT_BITE
 
 ---
 
